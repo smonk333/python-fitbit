@@ -36,4 +36,4 @@ class FitbitClient:
                 client_id, client_secret, access_token, refresh_token, refresh_callback
             )
 
-    def _make_request
+    def _make_request(self): #you left off here
